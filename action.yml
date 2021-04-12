@@ -1,0 +1,9 @@
+name: 'Setup Lambda tools for .NET'
+description: 'Installs lambda tools'
+author: 'Thomas Zwarts'
+branding:
+  icon: play
+  color: green
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

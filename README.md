@@ -1,2 +1,8 @@
-# with-lambda-tools
-Action to expose the dotnet lambda commands in your environment
+# with-lambda-tools action
+This action adds lambda tools to .NET sdk
+
+## Example usage
+
+```yml
+uses: Thomas-X/with-lambda-tools@v1
+```
